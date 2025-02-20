@@ -1,7 +1,2 @@
-# InfinityDM
-
-Dodaj tokeny do tokens.txt
-To mają być tokeny BOTÓW
+Dodaj tokeny botów do tokens.txt
 żeby spamić ktoś musi być w tym samym serwerze co boty
-
-# https://discord.gg/infinityc2
